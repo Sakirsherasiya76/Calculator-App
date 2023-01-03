@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600&family=Fuzzy+Bubbles&family=Nunito:wght@300;600;700&family=Playball&family=Roboto&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+.button{
+  padding: 20px;
+  width: 60px;
+  margin: 0 3px;
+  border: 2px solid pink;
+  border-radius: 9px;
+  cursor: pointer;
+}
+.row{
+  margin: 9px 0;
+}
+.row input{
+  width: 270px;
+  font-size: 20px;
+  margin: 0;
+  padding:10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
